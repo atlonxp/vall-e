@@ -1,4 +1,6 @@
-# Copyright      2020  Mobvoi Inc.        (authors: Fangjun Kuang)
+# This source codes based from Feiteng Li, customized by atlonxp
+# Copyright    2023                           (authors: Feiteng Li)
+# Copyright    2023                           (authors: Dr Watthanasak Jeamwatthanachai
 #
 # See ../../../LICENSE for clarification regarding multiple authors
 #

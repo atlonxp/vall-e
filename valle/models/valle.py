@@ -1,4 +1,6 @@
-# Copyright    2023                             (authors: Feiteng Li)
+# This source codes based from Feiteng Li, customized by atlonxp
+# Copyright    2023                           (authors: Feiteng Li)
+# Copyright    2023                           (authors: Dr Watthanasak Jeamwatthanachai
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.

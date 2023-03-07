@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
-# Copyright    2021-2022  Xiaomi Corp.        (authors: Fangjun Kuang,
-#                                                       Wei Kang,
-#                                                       Mingshuang Luo)
+# This source codes based from Feiteng Li, customized by atlonxp
 # Copyright    2023                           (authors: Feiteng Li)
+# Copyright    2023                           (authors: Dr Watthanasak Jeamwatthanachai
 #
 # See ../../../../LICENSE for clarification regarding multiple authors
 #
