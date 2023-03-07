@@ -99,18 +99,7 @@ pip install -e .
 * <a href="https://www.buymeacoffee.com/feiteng" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
 
 
-## Citing
-
-To cite this repository:
-
-```bibtex
-@misc{valle,
-  author={Feiteng Li},
-  title={VALL-E: A neural codec language model},
-  year={2023},
-  url={http://github.com/lifeiteng/valle}
-}
-```
+## References
 
 ```bibtex
 @article{VALL-E,
